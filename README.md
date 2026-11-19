@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-
 **juankarlos001/juankarlos001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+- Estoy editando la rama de tonio que te ha pasao
